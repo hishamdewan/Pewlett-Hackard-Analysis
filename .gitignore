@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Files to ignore
+Employee_Challenge_starter_code.sql
+module.sql
+queries.sql
+schema.sql
+
 # C extensions
 *.so
 
